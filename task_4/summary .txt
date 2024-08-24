@@ -1,0 +1,27 @@
+summary :
+This report provides an analysis of traffic accident data for the year 2020. The analysis aims to identify key patterns and factors contributing to traffic accidents, focusing on trends over time, weather conditions, and accident hotspots. The goal is to derive actionable insights and recommendations to enhance road safety. 
+
+
+DATA COLUMNS USED - STATE,A_WEATHER ,A_HR,FATALS,COUNTY.
+
+1.Trends in Accident Occurrences:
+
+ Took year 2020 and found that 1 and 2 hours there are accidents in 24 hours
+
+2. Correlation Between Weather Conditions and Accidents:
+
+ adverse weather conditions such as sunny and foggy are associated with a higher number of accidents compared to Rainy weather.
+due to lot of missing data and improper format ,took 1 as sunny ,2 as foggy and so on,
+
+Special values like 99 were handled as missing data and excluded from analysis.
+
+3 Hotspots for Traffic Accidents
+
+Areas with high accident counts have been identified(6,37) this regions road safety measures need to be focused.
+
+measures :
+   Conduct detailed local investigations to understand specific causes of high accident rates and implement tailored safety measures.
+ 
+
+conclusion :
+	The analysis of traffic accident data for 2020 has provided valuable insights into the impact of weather conditions and identified key accident hotspots. By implementing the recommended measures, targeted interventions can be made to improve road safety and reduce the number of traffic accidents.
